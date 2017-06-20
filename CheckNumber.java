@@ -8,7 +8,6 @@ public static void main(String[] args)
 	Scanner s=new Scanner(System.in);
 	try{
 	number=s.nextInt();
-	
 	if(number>0)
 	{
 		System.out.println("the number is positive");
